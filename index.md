@@ -1,6 +1,6 @@
 # An About Me Page
 
-Hello! I'll have you know that in the writing of this page, I considered a lot of things that I could potentially show off. 
+Hello! I'll have you know that in the writing of this page, I considered a lot of things that I could potentially show off. ~~I really didn't think it through.~~
 
 In order:
 
@@ -48,7 +48,7 @@ This is a link to my [codepen](https://codepen.io/Adventurous_Aspen/pen/GRZZxxP)
 This is a list of things that I need to do this quarter. 
 
 - [x] Take CSE 110. 
-- [ ] Write two thousand words a day for [NaNoWriMo](https://nanowrimo.org/).
+- [ ] ==Write two thousand words a day for [NaNoWriMo](https://nanowrimo.org/).==
 - [ ] Not procrastinate on writing. 
 - [ ] Not procrastinate on homework assignments. 
 - [ ] Realize that the "available by" and "due by" dates are completely separate, and that one comes after the other. 
